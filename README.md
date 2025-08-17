@@ -51,13 +51,3 @@ To set up the project locally, you'll need:
    - Explore the codebase, make changes, and contribute to the project.
    - Submit pull requests with your enhancements and fixes. Your contributions are highly appreciated!
 
-## Thanks to all contributors ❤
-
-Thanks to all the contributors who have helped improve this project. 
-
- <a href = "https://github.com/imlakshay08/waste-management-system/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=imlakshay08/waste-management-system"/>
- </a>
- 
-[View Contributors](https://github.com/imlakshay08/waste-management-system/graphs/contributors)
-

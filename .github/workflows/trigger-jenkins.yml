@@ -15,7 +15,7 @@ jobs:
           curl -X POST "$JENKINS_URL/job/$JENKINS_JOB_NAME/build?token=$JENKINS_TRIGGER_TOKEN" \
             --user "$JENKINS_USER:$JENKINS_API_TOKEN"
         env:
-          JENKINS_URL: "http://localhost:8081"
+          JENKINS_URL: "http://localhost:8081/"
           JENKINS_USER: "Monisha"
           JENKINS_API_TOKEN: "62d5b1452769f4b99cba53f8106df5fe"
           JENKINS_JOB_NAME: "Freestyle"

@@ -44,7 +44,7 @@ To set up the project locally, you'll need:
    - Enter the following URL:
      ```
      http://localhost/Waste-Management-System/
-     ```
+     ```  Hello 
    This will open the homepage of the application.
 
 5. **Contribute:**
